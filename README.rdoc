@@ -1,0 +1,4 @@
+= OpenSim
+
+OpenSource iPhone accelerometer and multitouch simulator
+(based on accelerometer simulator, http://code.google.com/p/accelerometer-simulator)
